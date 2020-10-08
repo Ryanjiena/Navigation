@@ -5,79 +5,79 @@ css = 'icon-desktop'
 [[list.item]]
 description="国家卫生健康委员会新型冠状病毒肺炎疫情最新情况"
 siteLink="http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/china.png"
 siteName="国家卫健委"
 
 [[list.item]]
 description="丁香园公众号新型冠状病毒肺炎疫情实时动态"
 siteLink="https://3g.dxy.cn/newh5/view/pneumonia"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dingxiangyuan.png"
 siteName="丁香园实时动态"
 
 [[list.item]]
 description="百度新型冠状病毒肺炎疫情实时动态"
 siteLink="https://voice.baidu.com/act/newpneumonia/newpneumonia"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidu.png"
 siteName="百度实时动态"
 
 [[list.item]]
 description="腾讯新闻新型冠状病毒肺炎疫情实时动态"
 siteLink="https://news.qq.com/zt2020/page/feiyan.htm"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tengxunxinwen.png"
 siteName="腾讯实时动态"
 
 [[list.item]]
 description="夸克新型冠状病毒肺炎疫情实时动态"
 siteLink="https://broccoli.uc.cn/apps/pneumonia/routes/index"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/kuake.png"
 siteName="夸克实时动态"
 
 [[list.item]]
 description="今日头条新型冠状病毒肺炎疫情实时动态"
 siteLink="https://i.snssdk.com/feoffline/hot_list/template/hot_list/forum_share.html?forum_id=1656388947394568"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jinritoutiao.png"
 siteName="头条实时动态"
 
 [[list.item]]
 description="知乎新型冠状病毒肺炎疫情实时动态"
 siteLink="https://www.zhihu.com/special/19681091"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhihu.png"
 siteName="知乎实时动态"
 
 [[list.item]]
 description="网易新型冠状病毒肺炎疫情实时动态"
 siteLink="http://news.163.com/special/epidemic/"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wangyi.png"
 siteName="网易实时动态"
 
 [[list.item]]
 description="新浪新型冠状病毒肺炎疫情实时动态"
 siteLink="https://news.sina.cn/zt_d/yiqing0121"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/xinlang.png"
 siteName="新浪实时动态"
 
 [[list.item]]
 description="第一财经新型冠状病毒肺炎疫情实时动态"
 siteLink="https://m.yicai.com/news/100476965.html"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/caijing.png"
 siteName="第一财经实时动态"
 
 [[list.item]]
 description="梅斯医学新型冠状病毒肺炎疫情实时动态"
 siteLink="http://m.medsci.cn/wh.asp"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/medsci.png"
 siteName="梅斯医学实时动态"
 
 [[list.item]]
 description="Telegram Channel 新型冠状病毒肺炎疫情实时动态"
 siteLink="http://2019ncov.tk"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/telegram.png"
 siteName="Telegram Channel 疫情频道"
 
 [[list.item]]
 description="百度新型冠状病毒肺炎防护手册"
 siteLink="https://expert.baidu.com/med/template/#/pages/speTopic/activity/index?pd=med&openapi=1&from_sf=1&resource_id=5216&vn=med&atn=sarihome&sf_ref=search_fybook"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidu.png"
 siteName="新型肺炎防护手册"
 
 
@@ -88,127 +88,127 @@ css = 'icon-desktop'
 [[list.item]]
 description="谷歌搜索"
 siteLink="https://www.google.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/google.png"
 siteName="谷歌搜索"
 
 [[list.item]]
 description="必应搜索"
 siteLink="https://bing.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/biying.png"
 siteName="必应搜索"
 
 [[list.item]]
 description="多吉搜索"
 siteLink="https://www.dogedoge.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/duojisousuo.png"
 siteName="多吉搜索"
 
 [[list.item]]
 description="DuckDuckGo"
 siteLink="https://duckduckgo.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/duckduckgo.png"
 siteName="DuckDuckGo"
 
 [[list.item]]
 description="Magi 搜索"
 siteLink="https://magi.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/magi.png"
 siteName="Magi 搜索"
 
 [[list.item]]
 description="百度搜索"
 siteLink="https://www.baidu.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidu.png"
 siteName="百度搜索"
 
 [[list.item]]
 description="微信搜索"
 siteLink="https://weixin.sogou.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/weixin.png"
 siteName="微信搜索"
 
 [[list.item]]
 description="知乎搜索"
 siteLink="https://zhihu.sogou.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhihu.png"
 siteName="知乎搜索"
 
 [[list.item]]
 description="搜狗明医"
 siteLink="https://mingyi.sogou.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sogoumingyi.png"
 siteName="搜狗明医"
 
 [[list.item]]
 description="京东"
 siteLink="https://search.jd.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jingdong.png"
 siteName="京东"
 
 [[list.item]]
 description="淘宝"
 siteLink="https://s.taobao.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tb.png"
 siteName="淘宝"
 
 [[list.item]]
 description="V2EX"
 siteLink="https://www.sov2ex.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/v2ex.png"
 siteName="V2EX"
 
 [[list.item]]
 description="豆瓣"
 siteLink="https://search.douban.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/douban.png"
 siteName="豆瓣"
 
 [[list.item]]
 description="谷歌学术"
 siteLink="https://scholar.google.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/googlescholar.png"
 siteName="谷歌学术"
 
 [[list.item]]
 description="必应学术"
 siteLink="https://bing.com/academic"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/biying.png"
 siteName="必应学术"
 
 [[list.item]]
 description="搜狗学术"
 siteLink="https://scholar.sogou.com/xueshu"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougousousuo.png"
 siteName="搜狗学术"
 
 [[list.item]]
 description="百度学术"
 siteLink="https://xueshu.baidu.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidu.png"
 siteName="百度学术"
 
 [[list.item]]
 description="科学百科"
 siteLink="https://baike.sogou.com/kexue"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougousousuo.png"
 siteName="科学百科"
 
 [[list.item]]
 description="百度百科"
 siteLink="https://baike.baidu.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidubaike.png"
 siteName="维基百科"
 
 [[list.item]]
 description="头条百科"
 siteLink="https://www.baike.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jinritoutiao.png"
 siteName="头条百科"
 
 [[list.item]]
 description="维基百科"
 siteLink="https://zh.wikipedia.org/wiki"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wikipedia.png"
 siteName="维基百科"
 
 
@@ -219,7 +219,7 @@ css = 'icon-desktop'
 [[list.item]]
 description="谷歌搜索"
 siteLink="https://www.google.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/google.png"
 siteName="谷歌搜索"
 
 
@@ -230,29 +230,29 @@ css = 'icon-desktop'
 [[list.item]]
 description="Stay Simple."
 siteLink="https://www.ryanjie.cn"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dingxiangyuan.png"
 siteName="Ryanjie 博客"
 
 [[list.item]]
 description="张戈博客是关注互联网以及分享IT运维工作经验的个人博客，由系统运维、脚本编程以及资源分享等分类组成，涵盖了操作系统教程、运维经验、脚本语言以及网络资源等。"
 siteLink="https://zhang.ge"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhanggeblog.png"
 siteName="张戈博客"
 
 [[list.item]]
 description="一个简简单单的博客，平时记录下自己所看到的，所想到的，仅此而已。"
 siteLink="https://www.moerats.com"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/Rats.png"
 siteName="Rat's Blog"
 
 [[list.item]]
 description="缙哥哥-分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。"
 siteLink="https://www.dujin.org"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dujin.png"
 siteName="缙哥哥博客"
 
 [[list.item]]
 description="张戈博客是关注互联网以及分享IT运维工作经验的个人博客，由系统运维、脚本编程以及资源分享等分类组成，涵盖了操作系统教程、运维经验、脚本语言以及网络资源等。"
 siteLink="https://zhang.ge"
-siteLogo="https://cdn.jsdelivr.net/gh/lmm214/images/logos/otp.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dingxiangyuan.png"
 siteName="张戈博客"
