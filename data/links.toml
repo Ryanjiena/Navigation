@@ -1,6 +1,6 @@
 [[list]]
 tag = '疫情信息'
-css = 'icon-desktop'
+css = 'iconfont icon-news'
 
 [[list.item]]
 description="国家卫生健康委员会新型冠状病毒肺炎疫情最新情况"
@@ -83,7 +83,7 @@ siteName="新型肺炎防护手册"
 
 [[list]]
 tag = '搜素引擎'
-css = 'icon-desktop'
+css = 'iconfont icon-sousuo'
 
 [[list.item]]
 description="谷歌搜索"
@@ -214,7 +214,7 @@ siteName="豆瓣"
 
 [[list]]
 tag = '代码托管'
-css = 'icon-desktop'
+css = 'iconfont icon-git'
 
 [[list.item]]
 description="GitHub is where people build software"
@@ -273,7 +273,7 @@ siteName="USTC Gitlab"
 
 [[list]]
 tag = '讨论社区'
-css = 'icon-desktop'
+css = 'iconfont icon-shequ'
 
 [[list.item]]
 description="CSDN 是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区."
@@ -349,7 +349,7 @@ siteName="Treehouse"
 
 [[list]]
 tag = '友情链接'
-css = 'icon-desktop'
+css = 'iconfont icon-friends'
 
 [[list.item]]
 description="Stay Simple."
