@@ -158,12 +158,6 @@ siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/v2ex.png"
 siteName="V2EX"
 
 [[list.item]]
-description="豆瓣"
-siteLink="https://search.douban.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/douban.png"
-siteName="豆瓣"
-
-[[list.item]]
 description="谷歌学术"
 siteLink="https://scholar.google.com"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/googlescholar.png"
@@ -197,7 +191,7 @@ siteName="科学百科"
 description="百度百科"
 siteLink="https://baike.baidu.com"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidubaike.png"
-siteName="维基百科"
+siteName="百度百科"
 
 [[list.item]]
 description="头条百科"
@@ -211,16 +205,153 @@ siteLink="https://zh.wikipedia.org/wiki"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wikipedia.png"
 siteName="维基百科"
 
+[[list.item]]
+description="豆瓣"
+siteLink="https://search.douban.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/douban.png"
+siteName="豆瓣"
+
 
 [[list]]
-tag = '文件处理'
+tag = '代码托管'
 css = 'icon-desktop'
 
 [[list.item]]
-description="谷歌搜索"
+description="GitHub is where people build software"
 siteLink="https://www.google.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/google.png"
-siteName="谷歌搜索"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/github.png"
+siteName="Github"
+
+[[list.item]]
+description="All-in-one DevOps meets all-in-one cloud."
+siteLink="https://gitlab.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitlab.png"
+siteName="Gitlab"
+
+[[list.item]]
+description="Gitee - 基于 Git 的代码托管和研发协作平台"
+siteLink="https://gitee.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitee.png"
+siteName="Gitee"
+
+[[list.item]]
+description="CODING 是一站式软件研发管理协作平台"
+siteLink="https://coding.net"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/coding.png"
+siteName="Coding"
+
+[[list.item]]
+description="云效 Codeup · 企业级代码管理平台"
+siteLink="https://codeup.aliyun.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/codeup.png"
+siteName="Codeup"
+
+[[list.item]]
+description="腾讯工蜂 · 腾讯新一代高效研发管理解决方案"
+siteLink="https://git.code.tencent.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tencentgit.png"
+siteName="腾讯工蜂"
+
+[[list.item]]
+description="Github 国内镜像站"
+siteLink="https://hub.fastgit.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/github.png"
+siteName="Fastgit"
+
+[[list.item]]
+description="Bitbucket is more than just Git code management."
+siteLink="https://bitbucket.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/bitbucket.png"
+siteName="Fastgit"
+
+[[list.item]]
+description="USTC Linux User Group - GitLab"
+siteLink="https://git.lug.ustc.edu.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitlab.png"
+siteName="USTC Gitlab"
+
+
+[[list]]
+tag = '讨论社区'
+css = 'icon-desktop'
+
+[[list.item]]
+description="CSDN 是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区."
+siteLink="https://www.csdn.net"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/csdn.png"
+siteName="CSDN"
+
+[[list.item]]
+description="博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。"
+siteLink="https://www.cnblogs.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/cnblogs.png"
+siteName="博客园"
+
+[[list.item]]
+description="SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。自社区上线以来在广大开发者群体中享有极高的口碑及影响力，以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时 SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。 腾讯、阿里、百度、美团、京东、滴滴、360等上千个技术团队已经入驻思否社区，我们也欢迎热爱技术的你一起加入交流与学习。"
+siteLink="https://segmentfault.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/segmentfault.png"
+siteName="SegmentFault"
+
+[[list.item]]
+description="创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。"
+siteLink="https://www.v2ex.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/v2ex.png"
+siteName="V2EX"
+
+[[list.item]]
+description="OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台"
+siteLink="https://www.oschina.net"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/oschina.png"
+siteName="OSCHINA"
+
+[[list.item]]
+description="百度 AI 开发者社区"
+siteLink="https://ai.baidu.com/forum"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ai.png"
+siteName="百度 AI 开发者社区"
+
+[[list.item]]
+description="简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。"
+siteLink="https://www.jianshu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jianshu.png"
+siteName="简书"
+
+[[list.item]]
+description="Stack Overflow is the largest, most trusted online community for developers to learn, share&#x200B; &#x200B;their programming &#x200B;knowledge, and build their careers."
+siteLink="https://stackoverflow.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
+siteName="Stack Overflow"
+
+[[list.item]]
+description="Bytes.com is a community for Developers and IT Professionals.  Join 462,643 members and discuss topics such as software development, networking, security, web development, mobile development, databases and more."
+siteLink="https://bytes.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/bytes.png"
+siteName="BYTES"
+
+[[list.item]]
+description="332"
+siteLink="https://stackoverflow.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
+siteName="Stack"
+
+[[list.item]]
+description="332"
+siteLink="https://stackoverflow.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
+siteName="Stack"
+
+[[list.item]]
+description="332"
+siteLink="https://stackoverflow.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
+siteName="Stack"
+
+[[list.item]]
+description="332"
+siteLink="https://stackoverflow.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
+siteName="Stack"
 
 
 [[list]]
@@ -230,19 +361,19 @@ css = 'icon-desktop'
 [[list.item]]
 description="Stay Simple."
 siteLink="https://www.ryanjie.cn"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dingxiangyuan.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
 siteName="Ryanjie 博客"
 
 [[list.item]]
 description="张戈博客是关注互联网以及分享IT运维工作经验的个人博客，由系统运维、脚本编程以及资源分享等分类组成，涵盖了操作系统教程、运维经验、脚本语言以及网络资源等。"
 siteLink="https://zhang.ge"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhanggeblog.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhangge.png"
 siteName="张戈博客"
 
 [[list.item]]
 description="一个简简单单的博客，平时记录下自己所看到的，所想到的，仅此而已。"
 siteLink="https://www.moerats.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/Rats.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/rats.png"
 siteName="Rat's Blog"
 
 [[list.item]]
