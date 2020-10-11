@@ -229,6 +229,12 @@ siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitlab.png"
 siteName="Gitlab"
 
 [[list.item]]
+description="Bitbucket is more than just Git code management."
+siteLink="https://bitbucket.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/bitbucket.png"
+siteName="Bitbucket"
+
+[[list.item]]
 description="Gitee - 基于 Git 的代码托管和研发协作平台"
 siteLink="https://gitee.com"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitee.png"
@@ -256,12 +262,6 @@ siteName="腾讯工蜂"
 description="Github 国内镜像站"
 siteLink="https://hub.fastgit.org"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/github.png"
-siteName="Fastgit"
-
-[[list.item]]
-description="Bitbucket is more than just Git code management."
-siteLink="https://bitbucket.org"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/bitbucket.png"
 siteName="Fastgit"
 
 [[list.item]]
@@ -333,6 +333,7 @@ siteName="CodeProject"
 description="Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!"
 siteLink="https://www.reddit.com/r/programming/"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/reddit.png"
+siteName="Reddit"
 
 [[list.item]]
 description="Stack Overflow is the largest, most trusted online community for developers to learn, share&#x200B; &#x200B;their programming &#x200B;knowledge, and build their careers."
