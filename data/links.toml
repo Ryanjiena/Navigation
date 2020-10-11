@@ -5,7 +5,7 @@ css = 'icon-desktop'
 [[list.item]]
 description="国家卫生健康委员会新型冠状病毒肺炎疫情最新情况"
 siteLink="http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/china.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/guohui.png"
 siteName="国家卫健委"
 
 [[list.item]]
@@ -100,7 +100,7 @@ siteName="必应搜索"
 [[list.item]]
 description="多吉搜索"
 siteLink="https://www.dogedoge.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/duojisousuo.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/duoji.png"
 siteName="多吉搜索"
 
 [[list.item]]
@@ -148,7 +148,7 @@ siteName="京东"
 [[list.item]]
 description="淘宝"
 siteLink="https://s.taobao.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tb.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/taobao.png"
 siteName="淘宝"
 
 [[list.item]]
@@ -160,7 +160,7 @@ siteName="V2EX"
 [[list.item]]
 description="谷歌学术"
 siteLink="https://scholar.google.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/googlescholar.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/google-scholar.png"
 siteName="谷歌学术"
 
 [[list.item]]
@@ -172,7 +172,7 @@ siteName="必应学术"
 [[list.item]]
 description="搜狗学术"
 siteLink="https://scholar.sogou.com/xueshu"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougousousuo.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougou.png"
 siteName="搜狗学术"
 
 [[list.item]]
@@ -184,7 +184,7 @@ siteName="百度学术"
 [[list.item]]
 description="科学百科"
 siteLink="https://baike.sogou.com/kexue"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougousousuo.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougou.png"
 siteName="科学百科"
 
 [[list.item]]
@@ -318,40 +318,33 @@ siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jianshu.png
 siteName="简书"
 
 [[list.item]]
-description="Stack Overflow is the largest, most trusted online community for developers to learn, share&#x200B; &#x200B;their programming &#x200B;knowledge, and build their careers."
-siteLink="https://stackoverflow.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
-siteName="Stack Overflow"
-
-[[list.item]]
 description="Bytes.com is a community for Developers and IT Professionals.  Join 462,643 members and discuss topics such as software development, networking, security, web development, mobile development, databases and more."
 siteLink="https://bytes.com"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/bytes.png"
 siteName="BYTES"
 
 [[list.item]]
-description="332"
-siteLink="https://stackoverflow.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
-siteName="Stack"
+description="Free source code and tutorials for Software developers and Architects."
+siteLink="https://www.codeproject.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/codeproject.png"
+siteName="CodeProject"
 
 [[list.item]]
-description="332"
-siteLink="https://stackoverflow.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
-siteName="Stack"
+description="Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!"
+siteLink="https://www.reddit.com/r/programming/"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/reddit.png"
 
 [[list.item]]
-description="332"
+description="Stack Overflow is the largest, most trusted online community for developers to learn, share&#x200B; &#x200B;their programming &#x200B;knowledge, and build their careers."
 siteLink="https://stackoverflow.com"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
-siteName="Stack"
+siteName="Stack Overflow"
 
 [[list.item]]
-description="332"
-siteLink="https://stackoverflow.com"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/stack-overflow.png"
-siteName="Stack"
+description="Join hundreds of thousands of students in our supportive online community. They’re always available to lend support and nudge you to keep going."
+siteLink="https://teamtreehouse.com/community"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/treehouse.png"
+siteName="Treehouse"
 
 
 [[list]]
