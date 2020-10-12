@@ -31,7 +31,7 @@ jobs:
           commit_message: ${{ github.event.head_commit.message }}
 
       - name: Sync Coding
-        uses: guojuna/git-repo-sync@master
+        uses: GuoJuna/sync-repo-action@master
         with:
           source_repo_url: git@github.com:${{ github.repository }}.git
           source_branch: gh-pages
