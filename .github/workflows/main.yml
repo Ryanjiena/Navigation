@@ -25,10 +25,19 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.personal_token }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
           commit_message: ${{ github.event.head_commit.message }}
+
+      - name: Sync Coding
+        uses: guojuna/git-repo-sync@master
+        with:
+          source_repo_url: git@github.com:${{ github.repository }}.git
+          source_branch: gh-pages
+          dest_repo_url: git@e.coding.net:ryanjie/nvg.git
+          dest_branch: gh-pages
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       # 部署到腾宝塔服务器
       # - name: Webhook
