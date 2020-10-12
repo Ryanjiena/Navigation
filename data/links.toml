@@ -172,7 +172,7 @@ siteName="必应学术"
 [[list.item]]
 description="搜狗学术"
 siteLink="https://scholar.sogou.com/xueshu"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougou.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sogou.png"
 siteName="搜狗学术"
 
 [[list.item]]
@@ -184,7 +184,7 @@ siteName="百度学术"
 [[list.item]]
 description="科学百科"
 siteLink="https://baike.sogou.com/kexue"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sougou.png"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/sogou.png"
 siteName="科学百科"
 
 [[list.item]]
