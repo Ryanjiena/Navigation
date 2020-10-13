@@ -1,0 +1,35 @@
+
+
+[[list]]
+tag = '友情链接'
+css = 'iconfont icon-friends'
+
+[[list.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.item]]
+description="张戈博客是关注互联网以及分享IT运维工作经验的个人博客，由系统运维、脚本编程以及资源分享等分类组成，涵盖了操作系统教程、运维经验、脚本语言以及网络资源等。"
+siteLink="https://zhang.ge"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/zhangge.png"
+siteName="张戈博客"
+
+[[list.item]]
+description="一个简简单单的博客，平时记录下自己所看到的，所想到的，仅此而已。"
+siteLink="https://www.moerats.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/moerats.png"
+siteName="Rat's Blog"
+
+[[list.item]]
+description="缙哥哥-分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。"
+siteLink="https://www.dujin.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dujin.png"
+siteName="缙哥哥博客"
+
+[[list.item]]
+description="憧憬点滴记忆(憧憬博客)是关注与分享互联网及软件IT技术的个人博客,同时也记录个人的一路点滴,所蕴含的包括前端、后端、数据库等知识,欢迎您关注我们。"
+siteLink="https://www.licoy.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/licoy.png"
+siteName="憧憬点滴记忆"
