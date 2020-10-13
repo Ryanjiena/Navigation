@@ -1,0 +1,58 @@
+[[list]]
+tag = '文件分享'
+css = 'iconfont icon-file'
+
+[[list.item]]
+description="百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间。"
+siteLink="https://pan.baidu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baiduwangpan.png"
+siteName="百度网盘"
+
+[[list.item]]
+description="蓝奏·云存储"
+siteLink="https://www.lanzou.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/lanzou.png"
+siteName="蓝奏云"
+
+[[list.item]]
+description="天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务，是国内领先的免费网盘，安全、可靠、稳定、快速。天翼云盘为用户守护数据资产。"
+siteLink="https://cloud.189.cn/"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tianyi.png"
+siteName="天翼云盘"
+
+[[list.item]]
+description="小麦云盘 | 文件传输服务"
+siteLink="https://b.own-cloud.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/owncloud.png"
+siteName="小麦云盘"
+
+[[list.item]]
+description="云端硬盘"
+siteLink="https://drive.google.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/googledrive.png"
+siteName="云端硬盘"
+
+[[list.item]]
+description="Onedrive"
+siteLink="https://skydrive.live.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/onedrive.png"
+siteName="Onedrive"
+
+[[list.item]]
+description="无需登录即可完成文件上传下载，上传下载永不限速，3T超大容量网盘空间，最大可支持20GB大文件传输，奶牛已经成为全中国最快的文件传输服务，或者说甚至是全世界。"
+siteLink="https://cowtransfer.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/cowtransfer.png"
+siteName="奶牛快传"
+
+[[list.item]]
+description="一款永不限速的云存储产品。传文件、收文件、网盘，还支持历史记录等高级功能。"
+siteLink="https://www.wenshushu.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wenshushu.png"
+siteName="文叔叔"
+
+[[list.item]]
+description="跨系统免安装传文件, 跨平台分享工具，纯Web，IOS，MAC，Linux，Android互传。"
+siteLink="https://cp.anyknew.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/anyknew.png"
+siteName="拷贝兔 Copytool"
+
