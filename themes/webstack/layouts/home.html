@@ -36,6 +36,10 @@
                 </header>
                 <ul id="main-menu" class="main-menu">
                     {{ range .Site.Data.links.list }}
+                    {{ range .Site.Data.program.list }}
+                    {{ range .Site.Data.file.list }}
+                    {{ range .Site.Data.gongju.list }}
+                    {{ range .Site.Data.friends.list }}
                     {{if .sub}}
                     <li class="has-sub expanded">
                         <a>
@@ -89,6 +93,10 @@
             {{ end }}
             <br/>
             {{ range .Site.Data.links.list }}
+            {{ range .Site.Data.program.list }}
+            {{ range .Site.Data.file.list }}
+            {{ range .Site.Data.gongju.list }}
+            {{ range .Site.Data.friends.list }}
             {{if .sub}}
             {{range .sub}}
             <h4 class="text-gray"><i class="{{.css}}" style="margin-right: 7px;" id="{{.tag}}"></i>{{.tag}}</h4>

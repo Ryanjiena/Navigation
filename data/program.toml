@@ -2,6 +2,7 @@
 tag = '编程开发'
 css = 'iconfont icon-program'
 
+
 [[list.sub]]
 tag = '代码托管'
 css = 'iconfont icon-git'
@@ -179,61 +180,66 @@ siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/lnmp.png"
 siteName="LNMP"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="JetBrains 是一家专注于创建智能开发工具的前沿软件公司，包括：行业中领头的 Java IDE – IntelliJ IDEA，以及 Kotlin 编程语言。"
+siteLink="https://www.jetbrains.com/products.html"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jetbrains.png"
+siteName="JetBrains"
+
+
+[[list.sub]]
+tag = '国内镜像'
+css = 'iconfont icon-website'
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="网易开源镜像站"
+siteLink="http://mirrors.163.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wangyi.png"
+siteName="网易开源镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="阿里云官方镜像站"
+siteLink="https://developer.aliyun.com/mirror"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/alicloud.png"
+siteName="阿里云官方镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="华为开源镜像站"
+siteLink="https://mirrors.huaweicloud.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/huaweicloud.png"
+siteName="华为开源镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="腾讯开源镜像站"
+siteLink="https://mirrors.cloud.tencent.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tencentcloud.png"
+siteName="腾讯开源镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="USTC 开源镜像站"
+siteLink="http://mirrors.ustc.edu.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ustc.png"
+siteName="USTC 开源镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="清华大学开源软件镜像站"
+siteLink="https://mirrors.tuna.tsinghua.edu.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tuna.png"
+siteName="清华大学开源软件镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="北京外国语大学开源软件镜像站"
+siteLink="https://mirrors.bfsu.edu.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tuna.png"
+siteName="北京外国语大学开源软件镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="OpenTUNA开源软件镜像站"
+siteLink="https://opentuna.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tuna.png"
+siteName="OpenTUNA开源软件镜像站"
 
 [[list.sub.item]]
-description="JDK"
-siteLink="23213"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdk.png"
-siteName="JDK"
+description="平安云开源镜像站"
+siteLink="https://mirrors.pinganyun.com/"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/pinganyun.png"
+siteName="平安云开源镜像站"
