@@ -377,7 +377,109 @@ siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dujin.png"
 siteName="缙哥哥博客"
 
 [[list.item]]
-description="张戈博客是关注互联网以及分享IT运维工作经验的个人博客，由系统运维、脚本编程以及资源分享等分类组成，涵盖了操作系统教程、运维经验、脚本语言以及网络资源等。"
-siteLink="https://zhang.ge"
-siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/dingxiangyuan.png"
-siteName="张戈博客"
+description="憧憬点滴记忆(憧憬博客)是关注与分享互联网及软件IT技术的个人博客,同时也记录个人的一路点滴,所蕴含的包括前端、后端、数据库等知识,欢迎您关注我们。"
+siteLink="https://www.licoy.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/licoy.png"
+siteName="憧憬点滴记忆"
+
+[[list]]
+tag = '实用软件'
+css = 'iconfont icon-gongju'
+
+[[list.sub]]
+tag = '软件下载'
+css = 'iconfont icon-link'
+
+[[list.sub.item]]
+description="423Down -专注软件分享."
+siteLink="https://www.423down.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="423Down"
+
+[[list.sub.item]]
+description="果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，破解软件，安卓软件，纯净系统等。守住互联网最后的一片净土。"
+siteLink="https://www.ghpym.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ghpym.png"
+siteName="果核剥壳"
+
+[[list.sub.item]]
+description="心海e站由烈火于1998年创建，主要发布由烈火汉化的一些实用的软件、绿色软件供大家使用，所有软件全部免费，心海e站，杜绝广告弹窗--软件界的最后一片净土。"
+siteLink="https://hrtsea.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/hrtsea.png"
+siteName="心海e站"
+
+[[list.sub.item]]
+description="落尘之木博客，专注软件资讯，掌握更新动态，致力于分享互联网优秀软件、电脑经验、技术交流、IT类新闻资讯等为一体的站点。"
+siteLink="https://www.luochenzhimu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/luochenzhimu.png"
+siteName="落尘之木"
+
+[[list.sub.item]]
+description="微当下载是一个免费无下载器的软件下载站，以官方软件、绿色软件、浏览器、单机游戏、手机软件、手机游戏等软件为主，全站下载提供CDN加速，让您享受满速下载的体验。"
+siteLink="https://www.weidown.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/weidown.png"
+siteName="微当下载"
+
+[[list.sub.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.sub.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.sub.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.sub.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.sub.item]]
+description="麦克房子是一家致力于分享Mac苹果电脑软件的下载网站，提供专业的Mac装机软件、Mac游戏、Mac热门的开发和设计软件，打造精品苹果Mac免费应用下载平台。"
+siteLink="https://www.macfz.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/macfz.png"
+siteName="麦克房子"
+
+[[list.sub.item]]
+description="wenlei 网盘"
+siteLink="http://wenlei.ys168.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/W.png"
+siteName="wenlei"
+
+[[list.sub.item]]
+description="Dreamcast 网盘"
+siteLink="http://dreamcast2.ys168.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/D.png"
+siteName="Dreamcast"
+
+[[list.sub]]
+tag = '常用工具'
+css = 'iconfont icon-software'
+
+[[list.sub.item]]
+description="小巧好用的全局鼠标手势"
+siteLink="https://shuax.com/project/mouseinc"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="MouseInc"
+
+[[list.sub.item]]
+description="更好用的 Google Chrome 浏览器"
+siteLink="https://shuax.com/project/chrome"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="Chrome 增强版"
+
+[[list.sub.item]]
+description="更好用的 Chromium Edge 浏览器"
+siteLink="https://shuax.com/project/edge"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="Edge 增强版"
