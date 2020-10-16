@@ -1,21 +1,20 @@
 theme = "webstack"
 version = "20.06.09"
 
-# 首页网址
 baseURL = "https://nav.ryanjie.cn"
-# 标题
 title = "Ryanjie"
 
 [params]
-    # 副标题
     subtitle = "Stay Simple."
+
     # 横条logo
     logo = "https://cdn.jsdelivr.net/gh/Ryanjiena/Navigation@gh-pages/images/logo.png"
+
     # logo 图标
     logoM = "https://cdn.jsdelivr.net/gh/Ryanjiena/Navigation@gh-pages/images/logo.png"
-    # css和js文件的cdn
+
     cdn = "https://cdn.jsdelivr.net/gh/Ryanjiena/Navigation@gh-pages"
-    # 开启今日诗词
+    # cdn = "https://nav.ryanjie.cn"
+
     jinrishici = "true"
-    # 开启访问量统计
     busuanzi = "true"
