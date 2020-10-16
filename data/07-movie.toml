@@ -1,0 +1,51 @@
+[[list]]
+tag = '影音娱乐'
+css = 'iconfont icon-yule'
+
+[[list.sub]]
+tag = '软件下载'
+css = 'iconfont icon-yinpin'
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"
+
+[[list.sub]]
+tag = '软件下载'
+css = 'iconfont icon-shipin'
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"
+
+[[list.sub]]
+tag = '软件下载'
+css = 'iconfont icon-tv'
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="1234"

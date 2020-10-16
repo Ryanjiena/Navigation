@@ -1,0 +1,81 @@
+[[list]]
+tag = '域名主机'
+css = 'iconfont icon-domain'
+
+[[list.item]]
+description="腾讯云为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与 CDN、域名注册等全方位云服务和各行业解决方案。"
+siteLink="https://cloud.tencent.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tencentcloud.png"
+siteName="腾讯云"
+
+[[list.item]]
+description="230 万用户正享用阿里云提供的云服务器、云数据库、云存储、CDN、大数据等服务，7x24 小时售后支持，专业快速备案，助企业无忧上云。"
+siteLink="https://www.aliyun.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/aliyun.png"
+siteName="阿里云"
+
+[[list.item]]
+description="华为云为用户提供云服务器,云数据库,云存储,CDN,大数据,云安全等公有云产品和电商,金融,游戏等多种解决方案,7x24 小时客服支持,帮助企业轻松上云。"
+siteLink="https://www.huaweicloud.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/huaweicloud.png"
+siteName="华为云"
+
+[[list.item]]
+description="UCloud(优刻得)是中国知名的中立云计算服务商，科创板上市(股票代码：688158)，中国云计算第一股，专注于提供可靠的企业级云服务，包括云服务器、云主机、云数据库、混合云、CDN、人工智能等服务。"
+siteLink="https://www.ucloud.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ucloud.png"
+siteName="UCloud"
+
+[[list.item]]
+description="金山云，全球高品质云服务专家，云计算领先平台，云产品解决方案，游戏云平台，先进医疗云平台，专业政务云、音视频解决方案。"
+siteLink="https://www.ksyun.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ksyun.png"
+siteName="金山云"
+
+[[list.item]]
+description="百度智能云专注云计算、智能大数据、人工智能服务，提供稳定的云服务器、云主机、云存储、CDN、域名注册、物联网等云服务,支持 API 对接,快速备案等专业解决方案。"
+siteLink="https://cloud.baidu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baiducloud.png"
+siteName="百度智能云"
+
+[[list.item]]
+description="京东智联云，提供包含公有云、私有云、混合云、专有云在内的多云、安全、可信赖的基础云服务,打造服务于数字企业、数字政府的多维场景解决方案，为客户创造价值。"
+siteLink="https://www.jdcloud.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jdcloud.png"
+siteName="京东智联云"
+
+[[list.item]]
+description="有目的地发明，节约成本，让你的组织能够更高效地利用 Microsoft Azure 灵活的开放式云计算平台。"
+siteLink="https://azure.microsoft.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/azure.png"
+siteName="Azure"
+
+[[list.item]]
+description="借助 Google 的云计算服务（包括数据管理、混合云和多云端环境以及 AI 和机器学习方面的服务），着力应对业务挑战。"
+siteLink="https://cloud.google.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/googlecloud.png"
+siteName="Google Cloud"
+
+[[list.item]]
+description="西部数码是基于云计算知名的互联网服务提供商,18 年专业知名品牌。专业提供云服务器、虚拟主机、域名注册、企业邮箱等,50 余万个虚拟主机网站及 1000 余万个域名用户的共同选择！"
+siteLink="https://www.west.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/west.png"
+siteName="西部数码"
+
+[[list.item]]
+description="Vultr Global Cloud Hosting - Brilliantly Fast SSD VPS Cloud Servers. 100% KVM Virtualization"
+siteLink="https://www.vultr.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/vultr.png"
+siteName="Vultr"
+
+[[list.item]]
+description="Freenom 是世界上第一个也是唯一的免费域名提供商。 我们的使命是把互联网带给世界人民，帮助各国发展自己的数字经济。"
+siteLink="https://www.freenom.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/freenom.png"
+siteName="Freenom"
+
+[[list.item]]
+description="Add-on products that our competitors like to charge for come free. The best, cheap domain name registration and website hosting platform out there"
+siteLink="https://www.namesilo.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/namesilo.png"
+siteName="NameSilo"

@@ -1,0 +1,261 @@
+[[list]]
+tag = '软件工具'
+css = 'iconfont icon-gongju'
+
+[[list.sub]]
+tag = '软件下载'
+css = 'iconfont icon-link'
+
+[[list.sub.item]]
+description="423Down -专注软件分享."
+siteLink="https://www.423down.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/423down.png"
+siteName="423Down"
+
+[[list.sub.item]]
+description="果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，破解软件，安卓软件，纯净系统等。守住互联网最后的一片净土。"
+siteLink="https://www.ghpym.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ghpym.png"
+siteName="果核剥壳"
+
+[[list.sub.item]]
+description="心海 e 站由烈火于 1998 年创建，主要发布由烈火汉化的一些实用的软件、绿色软件供大家使用，所有软件全部免费，心海 e 站，杜绝广告弹窗--软件界的最后一片净土。"
+siteLink="https://hrtsea.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/hrtsea.png"
+siteName="心海 e 站"
+
+[[list.sub.item]]
+description="落尘之木博客，专注软件资讯，掌握更新动态，致力于分享互联网优秀软件、电脑经验、技术交流、IT 类新闻资讯等为一体的站点。"
+siteLink="https://www.luochenzhimu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/luochenzhimu.png"
+siteName="落尘之木"
+
+[[list.sub.item]]
+description="微当下载是一个免费无下载器的软件下载站，以官方软件、绿色软件、浏览器、单机游戏、手机软件、手机游戏等软件为主，全站下载提供 CDN 加速，让您享受满速下载的体验。"
+siteLink="https://www.weidown.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/weidown.png"
+siteName="微当下载"
+
+[[list.sub.item]]
+description="麦克房子是一家致力于分享 Mac 苹果电脑软件的下载网站，提供专业的 Mac 装机软件、Mac 游戏、Mac 热门的开发和设计软件，打造精品苹果 Mac 免费应用下载平台。"
+siteLink="https://www.macfz.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/macfz.png"
+siteName="麦克房子"
+
+[[list.sub.item]]
+description="吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护."
+siteLink="https://www.52pojie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/52pojie.png"
+siteName="吾爱破解"
+
+[[list.sub.item]]
+description="飘云阁致力于软件安全、游戏外挂及病毒分析的前沿，丰富的学习教程免费向广大用户提供，由国内外安全界知名人士共同维护."
+siteLink="https://www.chinapyg.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/chinapyg.png"
+siteName="飘云阁"
+
+[[list.sub.item]]
+description="Stay Simple."
+siteLink="https://www.ryanjie.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png"
+siteName="Ryanjie 博客"
+
+[[list.sub.item]]
+description="飞扬时空作品汇总."
+siteLink="http://blog.sina.com.cn/flyonzone"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/F.png"
+siteName="飞扬时空"
+
+[[list.sub.item]]
+description="wenlei 网盘"
+siteLink="http://wenlei.ys168.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/W.png"
+siteName="wenlei"
+
+[[list.sub.item]]
+description="Dreamcast 网盘"
+siteLink="http://dreamcast2.ys168.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/D.png"
+siteName="Dreamcast"
+
+[[list.sub]]
+tag = '实用软件'
+css = 'iconfont icon-software'
+
+[[list.sub.item]]
+description="小巧好用的全局鼠标手势"
+siteLink="https://shuax.com/project/mouseinc"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="MouseInc"
+
+[[list.sub.item]]
+description="更好用的 Google Chrome 浏览器"
+siteLink="https://shuax.com/project/chrome"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="Chrome 增强版"
+
+[[list.sub.item]]
+description="更好用的 Chromium Edge 浏览器"
+siteLink="https://shuax.com/project/edge"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="Edge 增强版"
+
+[[list.sub.item]]
+description="基于名称快速定位文件和文件夹。"
+siteLink="https://www.voidtools.com/zh-cn/"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/everything.png"
+siteName="Everything"
+
+[[list.sub.item]]
+description="截图 + 贴图，提高您的工作效率."
+siteLink="https://zh.snipaste.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/snipaste.png"
+siteName="Snipaste"
+
+[[list.sub.item]]
+description="简单易用，一键安装，大众用户即可获得安全防护."
+siteLink="https://www.huorong.cn/person5.html"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/huorong.png"
+siteName="火绒安全"
+
+[[list.sub.item]]
+description="借助深度卷积神经网络对图片 & GIF & 视频进行超分辨率放大(即放大与降噪)."
+siteLink="https://github.com/AaronFeng753/Waifu2x-Extension-GUI"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/W.png"
+siteName="Waifu2x-Extension-GUI"
+
+[[list.sub.item]]
+description="一个用于部署、激活 Office、Visio、Project 的小工具。借助本工具，你可以快速地完成各项 Office 部署工作！"
+siteLink="https://otp.landian.vip"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/otp.png"
+siteName="Office Tool Plus"
+
+[[list.sub.item]]
+description="硕鼠官网：最稳定的 FLV 视频下载平台,提供 FLV 在线视频下载服务,持续更新。支持 CNTV,新浪,搜狐等 84 个网站的 FLV 下载,并提供电视剧,电影,音乐的批量下载。"
+siteLink="http://www.flvcd.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/flvcd.png"
+siteName="FLVCD - 硕鼠"
+
+[[list.sub.item]]
+description="3213"
+siteLink="213"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/shuax.png"
+siteName="213"
+
+[[list.sub]]
+tag = '在线工具'
+css = 'iconfont icon-website'
+
+[[list.sub.item]]
+description="百度脑图"
+siteLink="https://naotu.baidu.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baidu.png"
+siteName="百度脑图"
+
+[[list.sub.item]]
+description="加速您网站的访问并节约带宽。TinyPNG 能在完整保留透明度的同时将 PNG 图片压缩 50-80%。"
+siteLink="https://tinify.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="TinyPNG"
+
+[[list.sub.item]]
+description="Picdiet 是一款用 JavaScript 编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，完全免费。"
+siteLink="https://www.picdiet.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/picdiet.png"
+siteName="Picdiet"
+
+[[list.sub.item]]
+description="docsmall 提供在线图片压缩、GIF 压缩、在线 PDF 压缩、PDF 合并、PDF 分割功能"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/docsmall.png"
+siteName="docsmall"
+
+[[list.sub.item]]
+description="Convertio - 在线转换文件的简单工具。支持超过 309 种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。"
+siteLink="https://convertio.co"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/convertio.png"
+siteName="Convertio"
+
+[[list.sub.item]]
+description="本 kms 服务长期有效！无毒绿色 bat 脚本激活系统！更有手动激活方式教你每一步操作！还可以学习到自己手动搭建 KMS 服务器的方法！KMS 显示是 180 天，实际上是永久自动续期，相当于永久激活！"
+siteLink="https://kms.cangshui.net"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/kms.png"
+siteName="KMS 激活服务"
+
+[[list.sub.item]]
+description="Bigjpg - 使用人工智能深度卷积神经网络（CNN）智能无损免费放大图片，可放大 4K 级超高清分辨率（4000x4000）图片，最大 32 倍放大,效果秒杀 PhotoZoom 放大。"
+siteLink="https://bigjpg.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="Bigjpg"
+
+[[list.sub.item]]
+description="本程序使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）。"
+siteLink="http://waifu2x.udp.jp"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/W.png"
+siteName="waifu2x"
+
+[[list.sub.item]]
+description="The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages."
+siteLink="https://realfavicongenerator.net"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/realfavicongenerator.png"
+siteName="Favicon Generator"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"

@@ -2,7 +2,6 @@
 tag = '编程开发'
 css = 'iconfont icon-program'
 
-
 [[list.sub]]
 tag = '代码托管'
 css = 'iconfont icon-git'
@@ -61,10 +60,33 @@ siteLink="https://git.lug.ustc.edu.cn"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gitlab.png"
 siteName="USTC Gitlab"
 
-
 [[list.sub]]
 tag = '讨论社区'
 css = 'iconfont icon-shequ'
+
+[[list.sub.item]]
+description="力扣提供海量技术面试资源,帮助你高效提升编程技能,轻松拿下世界 IT 名企 Dream Offer。"
+siteLink="https://leetcode-cn.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/leetcode.png"
+siteName="力扣"
+
+[[list.sub.item]]
+description="LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."
+siteLink="https://leetcode.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/leetcode.png"
+siteName="LeetCode"
+
+[[list.sub.item]]
+description="洛谷创办于2013年，致力于为参加noip、noi、acm的选手提供清爽、快捷的编程体验。它拥有在线测题系统、强大的社区、在线学习功能。很多教程内容由各位oiers提供的，内容广泛。无论是初学oi的蒟蒻，还是久经沙场的神犇，均可从中获益，也可以帮助他人，共同进步。是学习noip等竞赛时理想的网站。"
+siteLink="https://www.luogu.com.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/luogu.png"
+siteName="洛谷"
+
+[[list.sub.item]]
+description="掘金是一个帮助开发者成长的社区，是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货，其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时，掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户，我们相信你也可以在这里有所收获。"
+siteLink="https://juejin.im"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/juejin.png"
+siteName="掘金"
 
 [[list.sub.item]]
 description="CSDN 是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区."
@@ -138,7 +160,6 @@ siteLink="https://teamtreehouse.com/community"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/treehouse.png"
 siteName="Treehouse"
 
-
 [[list.sub]]
 tag = '开发环境'
 css = 'iconfont icon-development'
@@ -185,10 +206,9 @@ siteLink="https://www.jetbrains.com/products.html"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/jetbrains.png"
 siteName="JetBrains"
 
-
 [[list.sub]]
 tag = '国内镜像'
-css = 'iconfont icon-website'
+css = 'iconfont icon-cdn'
 
 [[list.sub.item]]
 description="网易开源镜像站"
@@ -243,3 +263,74 @@ description="平安云开源镜像站"
 siteLink="https://mirrors.pinganyun.com/"
 siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/pinganyun.png"
 siteName="平安云开源镜像站"
+
+[[list.sub]]
+tag = '科技周刊'
+css = 'iconfont icon-shukan'
+
+[[list.sub.item]]
+description="这里记录每周值得分享的科技内容，周五发布。"
+siteLink="https://www.yuque.com/ruanyf/weekly"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/yuque.png"
+siteName="科技爱好者周刊"
+
+[[list.sub.item]]
+description="分享 GitHub 入门级、有趣的开源项目。推广自己的开源项目、编程实践项目、适合练手的开源项目、HelloGitHub月刊。"
+siteLink="https://hellogithub.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/hellogithub.png"
+siteName="HelloGitHub"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub]]
+tag = '学习'
+css = 'iconfont icon-xuexi'
+
+[[list.sub.item]]
+description="极客时间是一款由极客邦科技倾力打造的面向IT领域的知识服务产品,旨在帮助用户提升技术认知.板块包含专栏文章、视频课程、新闻、资讯、直播、图书、商城等。"
+siteLink="https://time.geekbang.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/geekbang.png"
+siteName="极客时间"
+
+[[list.sub.item]]
+description="研究互联网产品和技术，提供原创中文精品教程。"
+siteLink="https://www.liaoxuefeng.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/liaoxuefeng.png"
+siteName="廖雪峰"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+[[list.sub.item]]
+description="1234"
+siteLink="1234"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tinypng.png"
+siteName="1234"
+
+
+

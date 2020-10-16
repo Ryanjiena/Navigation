@@ -1,0 +1,63 @@
+[[list]]
+tag = '电子邮件'
+css = 'iconfont icon-mail'
+
+[[list.item]]
+description="网易免费邮箱--中国第一大电子邮件服务商，提供以@163.com、@126.com 和@yeah.net 为后缀的免费邮箱。16 年邮箱运营经验，系统快速稳定，垃圾邮件拦截率超过 98%，邮箱容量自动翻倍，支持高达 2G 超大附件，提供免费网盘及手机邮箱服务。"
+siteLink="https://email.163.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/wangyi.png"
+siteName="网易邮箱"
+
+[[list.item]]
+description="QQ 邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。你可以在电脑网页、iOS/iPad 客户端、及 Android 客户端上使用它，通过邮件发送 3G 的超大附件，体验文件中转站、日历、记事本、漂流瓶等特色功能。QQ 邮箱，常联系。"
+siteLink="https://mail.qq.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/tencent.png"
+siteName="QQ 邮箱"
+
+[[list.item]]
+description="阿里邮箱个人版为用户提供高效稳定便捷的电子邮箱服务，免费注册邮箱送 2G 超大附件，60G 容量，您可以在电脑网页、手机端注册、登录阿里邮箱个人版。"
+siteLink="https://mail.aliyun.com/"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/aliyun.png"
+siteName="阿里邮箱"
+
+[[list.item]]
+description="新浪邮箱,提供以@sina.com 和@sina.cn 为后缀的免费邮箱。2G 超大附件和 50M 普通附件,容量 5G 至无限大,整合新浪微博应用,支持客户端收发,更加安全,更少垃圾邮件。"
+siteLink="https://mail.sina.com.cn"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/xinlang.png"
+siteName="新浪邮箱"
+
+[[list.item]]
+description="获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。"
+siteLink="https://outlook.live.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/outlook.png"
+siteName="Outlook"
+
+[[list.item]]
+description="Google 的电子邮件服务"
+siteLink="https://mail.google.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/gmail.png"
+siteName="Gmail"
+
+[[list.item]]
+description="Keep spam out of your mail and stay safe - just use a disposable temporary email address! Protect your personal email address from spam with Temp-mail."
+siteLink="https://temp-mail.org"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/temp-mail.png"
+siteName="Temp Mail"
+
+[[list.item]]
+description="临时邮箱、10 分钟邮箱、十分钟邮箱、临时邮、临时 Email、快速注册 Email、自动刷新接收！"
+siteLink="https://rootsh.com"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/mail.png"
+siteName="十分钟邮箱"
+
+[[list.item]]
+description="2132"
+siteLink="2132"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baiduwangpan.png"
+siteName="2123"
+
+[[list.item]]
+description="2132"
+siteLink="2132"
+siteLogo="https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/baiduwangpan.png"
+siteName="2123"
