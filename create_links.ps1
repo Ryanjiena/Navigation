@@ -30,6 +30,7 @@ function CreateLinks {
 function Commit {
     git add data\links.toml
     # git commit -m ":rocket: deploy: $date"
+    Write-Output "deploy: " $date
     git commit -m ":memo: Update links.toml."
 }
 
